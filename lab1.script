@@ -1,0 +1,11 @@
+Script started on 2017年03月14日 (週二) 23時10分12秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m  git clone[C[1P[C[C[C[C[C[C[C[C[Chttps://github.com/siangsiang/lab1 https://github.com/siangsiang/lab1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月14日 (週二) 23時12分39秒
